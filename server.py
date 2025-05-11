@@ -1596,6 +1596,6 @@ if __name__ == '__main__':
     preload_resources()
     print("Recursos precargados. Iniciando servidor.")
     # Obtener puerto del entorno o usar 10002 por defecto
-    port = int(os.environ.get("PORT", 10004))
+    port = int(os.environ.get("PORT", 10006))
     app.run(host='0.0.0.0', port=port, debug=False)
     calculate_positions_aspects  
