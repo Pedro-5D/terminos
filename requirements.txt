@@ -18,4 +18,4 @@ fastapi
 uvicorn
 tzdata
 pandas
-pyswisseph==2.10.3
+pyswisseph
