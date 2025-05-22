@@ -18,4 +18,4 @@ fastapi
 uvicorn
 tzdata
 pandas
-swiss-ephemeris
+pyswisseph==2.10.3
